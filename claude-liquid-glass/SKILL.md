@@ -1,5 +1,5 @@
 ---
-name: claude-liquid-glass
+name: liquid-glass
 description: >
   Enforces native iOS 26+ Liquid Glass in all iOS UI — SwiftUI, UIKit, and React Native / Expo
   (expo-glass-effect + expo-router NativeTabs). Covers buttons, icons, navbars, tab bars, search
